@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Overissue Kernel by babay, fork form Renoroi
+kernel.string=Overissue Kernel by Babayy, fork form Renoroi
 do.devicecheck=1
 do.modules=0
 do.systemless=1
